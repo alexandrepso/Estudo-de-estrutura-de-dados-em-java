@@ -1,7 +1,8 @@
 # Estudo-de-estrutura-de-dados-em-java
-Estudos de estrutura de dados em java, acompanhando o curso da DIO.
 
-Aula – 1 Introdução ao Curso e Conceitos Básicos
+### Estudos de estrutura de dados em java, acompanhando o curso da DIO. ###
+
+### Aula – 1 Introdução ao Curso e Conceitos Básicos ###
 
 ◦ [ Etapa 1 ] - Apresentação
 ◦ [ Etapa 2 ] - Conceito de Memória
@@ -11,13 +12,13 @@ Aula – 1 Introdução ao Curso e Conceitos Básicos
 ◦ [ Etapa 6 ] - Generics em Java
 ◦ [ Etapa 7 ] - Refatoração da Classe No
 
-Aula – 2 Pilhas [LIFO: Last In, First Out]
+### Aula – 2 Pilhas [LIFO: Last In, First Out] ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Pilhas
 ◦ [ Etapa 2 ] - Implementação da classe Pilha (Métodos: Top, Push e Pop )
 ◦ [ Etapa 3 ] - Utilização da Classe Pilha
 
-• Aula – 3 Filas [FIFO: First in, First Out]
+### Aula – 3 Filas [FIFO: First in, First Out] ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Filas
 ◦ [ Etapa 2 ] - Implementação da classe Fila (Métodos: Enqueue, Dequeue)
@@ -25,7 +26,7 @@ Aula – 2 Pilhas [LIFO: Last In, First Out]
 ◦ [ Etapa 4 ] - Refatoração para embutir o nó
 ◦ [ Etapa 5 ] - Refatoração para utilização de generics
 
-• Aula – 4 Listas Encadeadas
+### Aula – 4 Listas Encadeadas ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Listas Encadeadas
 ◦ [ Etapa 2 ] - Implementação da classe No
@@ -37,7 +38,7 @@ Aula – 2 Pilhas [LIFO: Last In, First Out]
 ◦ [ Etapa 8 ] - Implementação da classe ListaEncadeada (toString())
 ◦ [ Etapa 9 ] - Utilização da Classe ListaEncadeada
 
-• Aula – 5 Listas Duplamente Encadeadas
+### Aula – 5 Listas Duplamente Encadeadas ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Listas Duplamente Encadeadas
 ◦ [ Etapa 2 ] - Implementação da classe NoDuplo
@@ -49,7 +50,7 @@ Aula – 2 Pilhas [LIFO: Last In, First Out]
 ◦ [ Etapa 8 ] - Implementação da classe ListaDuplamenteEncadeada (toString())
 ◦ [ Etapa 9 ] - Utilização da Classe ListaDuplamenteEncadeada
 
-• Aula – 6 Listas Circulares
+### Aula – 6 Listas Circulares ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Listas Circulares
 ◦ [ Etapa 2 ] - Implementação da classe No
@@ -60,7 +61,7 @@ Aula – 2 Pilhas [LIFO: Last In, First Out]
 ◦ [ Etapa 7 ] - Implementação da classe ListaCircular (toStrinf())
 ◦ [ Etapa 8 ] - Utilização da Classe ListaCircular
 
-• Aula – 7 Árvores
+### Aula – 7 Árvores ###
 
 ◦ [ Etapa 1 ] - Explicação teórica do conceito de Árvores
 ◦ [ Etapa 2 ] - Explicação teórica de Árvore de Busca Binária
@@ -71,7 +72,7 @@ Aula – 2 Pilhas [LIFO: Last In, First Out]
 ◦ [ Video 7 ] - Implementação da classe ArvoreBinaria
 ◦ [ Etapa 8 ] – Utilização da classe ArvoreBinaria
 
-• Aula – 8 Principais Implementações das estruturas de dados do Java
+### Aula – 8 Principais Implementações das estruturas de dados do Java ###
 
 ◦ [ Etapa 1 ] - Conceitos de equals e hashCode
 ◦ [ Etapa 2 ] - Stack (Pilha)
